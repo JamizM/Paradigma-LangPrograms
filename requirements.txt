@@ -1,0 +1,2 @@
+compilar codigo: gcc main.c -o main.exe
+ejecutar codigo: ./main.exe
